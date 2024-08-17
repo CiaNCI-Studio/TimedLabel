@@ -32,4 +32,9 @@ You can set it to autostart otherwise it will wait for a call to 'func start()'.
 * End : Emmited at the end of the text.
 
 By Cianci 
+
 KelvysB.
+
+Check Cianci Tutorials (Brazilian Portuguese):
+
+https://www.youtube.com/@CiaNCIStudio
