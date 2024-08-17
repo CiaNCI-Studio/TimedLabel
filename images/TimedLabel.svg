@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="68.594582mm"
-   height="51.446972mm"
-   viewBox="0 0 68.594581 51.446972"
+   width="52.916668mm"
+   height="52.916668mm"
+   viewBox="0 0 52.916667 52.916668"
    version="1.1"
    id="svg1"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="2.0661644"
-     inkscape:cx="108.41344"
-     inkscape:cy="159.71623"
+     inkscape:zoom="2.9219977"
+     inkscape:cx="90.006915"
+     inkscape:cy="92.402536"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -41,18 +41,18 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-56.346086,-101.89336)">
+     transform="translate(-56.436634,-101.80281)">
     <rect
-       style="fill:#ffe680;stroke-width:4.99999"
+       style="fill:#ffe680;stroke-width:4.45612"
        id="rect1"
-       width="68.545425"
-       height="51.431709"
+       width="52.916668"
+       height="52.916668"
        x="56.436634"
        y="101.80281"
-       ry="6.9857736" />
+       ry="7.1874695" />
     <g
        id="g2"
-       transform="matrix(2.4756119,0,0,2.4756119,59.065558,102.07568)"
+       transform="matrix(2.6948886,0,0,2.6948886,60.465493,103.89545)"
        style="fill:#000000;stroke:none">
       <path
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.371909;stroke-opacity:1"
@@ -69,7 +69,7 @@
     </g>
     <g
        id="g2-7"
-       transform="matrix(0.15256409,-0.04087942,0.04087942,0.15256409,110.8133,98.963872)">
+       transform="matrix(0.08788945,-0.02354991,0.02354991,0.08788945,63.61105,100.82025)">
       <g
          fill="#dddddd"
          id="g221"
@@ -267,14 +267,14 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.1919px;font-family:'Eldes Cordel';-inkscape-font-specification:'Eldes Cordel';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:4.5141"
-       x="90.408798"
-       y="149.53035"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.55986px;font-family:'Eldes Cordel';-inkscape-font-specification:'Eldes Cordel';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:3.34834"
+       x="82.983795"
+       y="151.86937"
        id="text1"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Eldes Cordel';-inkscape-font-specification:'Eldes Cordel';stroke-width:4.51411"
-         x="90.408798"
-         y="149.53035">Timed Label</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Eldes Cordel';-inkscape-font-specification:'Eldes Cordel';stroke-width:3.34835"
+         x="82.983795"
+         y="151.86937">Timed Label</tspan></text>
   </g>
 </svg>
